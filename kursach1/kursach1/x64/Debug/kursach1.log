@@ -1,0 +1,37 @@
+﻿  MyForm.cpp
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\Add.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\Add.h(68,9): warning C4068: неизвестная прагма "IDion"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\Add.h(181,9): warning C4068: неизвестная прагма "endIDion"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\DeleteForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\CreateTable.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(75,9): warning C4068: неизвестная прагма "IDion"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(229,9): warning C4068: неизвестная прагма "endIDion"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.h(339,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\igory\Desktop\test\kursach1\kursach1\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  CreateTable.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursach1.vcxproj -> C:\Users\igory\Desktop\test\kursach1\x64\Debug\kursach1.exe

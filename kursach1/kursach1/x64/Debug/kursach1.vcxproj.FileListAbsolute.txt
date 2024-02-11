@@ -1,0 +1,6 @@
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.vcxproj.AssemblyReference.cache
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.Add.resources
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.MyForm.resources
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.DeleteForm.resources
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.vcxproj.GenerateResource.cache
+C:\Users\igory\Desktop\test\kursach1\kursach1\x64\Debug\kursach1.CreateTable.resources

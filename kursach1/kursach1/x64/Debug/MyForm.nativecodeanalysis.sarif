@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33130.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/igory/desktop/test/kursach1/kursach1/myform.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d6bedddebe883d55714a548e5ececf00dfb0806c3e7082574c609fba4b647a64"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/igory/desktop/test/kursach1/kursach1/myform.h"
+          },
+          "hashes": {
+            "sha-256": "54e35a7546d94af398b1dc461c896d03ee2a1ecb29fe1738b4e97fc938948b0f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/igory/desktop/test/kursach1/kursach1/add.h"
+          },
+          "hashes": {
+            "sha-256": "4e16465dd9f5656b23780a7a037d30bf57884c9a3a3a2f3dde52a54ad52c1aa9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/igory/desktop/test/kursach1/kursach1/deleteform.h"
+          },
+          "hashes": {
+            "sha-256": "3d49a441bf379b049aca6eb2ff61ca393cdb69c5481b3c8f3c125a23f8f2d936"
+          }
+        }
+      ]
+    }
+  ]
+}
